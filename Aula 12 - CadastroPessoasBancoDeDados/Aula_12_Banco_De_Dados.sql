@@ -1,1 +1,0 @@
-SELECT * FROM aula_12_banco_de_dados.pes_pessoa;
